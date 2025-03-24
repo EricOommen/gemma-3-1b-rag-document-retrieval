@@ -1,0 +1,16 @@
+torch
+langchain
+langchain-community
+faiss-cpu
+langchain-google-genai
+google-generativeai
+pypdf2
+beautifulsoup4
+requests
+streamlit
+python-dotenv
+git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+bs4
+requests
+pytesseract
+pillow
